@@ -3,7 +3,7 @@
 This project involves developing an ETL pipeline to analyze Olympic data. The pipeline extracts data from various sources, transforms it into a suitable format, and loads it into an Azure data store for further analysis.
 
 ## Architecture
-![Architecture Diagram](https://raw.githubusercontent.com/Aravindsuresh5235/-Olympic-Data-Analysis-/main/Olympic%20Data%20analysis%20(Architecture).png)
+![Architecture Diagram](https://raw.githubusercontent.com/Aravindsuresh5235/-Olympic-Data-Analysis-/main/Olympic%20Data%20analysis%20Architecture.png)
 ## Dataset/API
 The dataset includes detailed information about Olympic events, athletes, and results from various years.
 
